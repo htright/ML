@@ -1,6 +1,9 @@
 #jupyter notebook
 *./ipnyb_checkpoints/
 
+#임시
+temporary/
+
 #data
 *.csv
 *.json
