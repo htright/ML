@@ -29,3 +29,6 @@
 
 ## LSTM
 
+## FB Prophet
+
+[Prophet_경기도 수원시](https://github.com/htright/ML/blob/master/Project/%EB%B6%80%EB%8F%99%EC%82%B0%EC%8B%9C%EA%B3%84%EC%97%B4%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81/fbprophet_v1.ipynb)
