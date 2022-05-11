@@ -37,3 +37,5 @@ LSTM_경기도(시단위)
 ## [FB Prophet](https://github.com/htright/ML/tree/master/Project/%EB%B6%80%EB%8F%99%EC%82%B0%EC%8B%9C%EA%B3%84%EC%97%B4%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81/Prophet)
 
 Prophet_경기도 수원시
+
+Prophet.dignostics
